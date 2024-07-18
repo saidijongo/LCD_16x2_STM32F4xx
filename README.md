@@ -9,7 +9,8 @@ LCD STM32 Blog Post
 2.https://velog.io/@oogicar45/Atmega128A-LCD-%ED%99%9C%EC%9A%A9
 3.https://m.blog.naver.com/PostView.naver?isHttpsRedirect=true&blogId=ga1267&logNo=220046182859
 4.https://blog.naver.com/cho6716666/222584196317
-5.
+5.https://jeonhj.tistory.com/41
+6.
 
 <img width="322" alt="image" src="https://github.com/user-attachments/assets/0b5c2295-6bcc-4a1c-bf7f-d81463b7112a">
 
