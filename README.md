@@ -11,6 +11,7 @@ LCD STM32 Blog Post
 4.https://blog.naver.com/cho6716666/222584196317
 5.https://jeonhj.tistory.com/41
 6.https://blog.naver.com/cho6716666/222584196317
+7.https://blog.naver.com/cho6716666/222609493207
 
 http://hanjindata.iptime.org/myweb/shop/P0010/ILI9325.pdf
 
