@@ -12,6 +12,7 @@ LCD STM32 Blog Post
 5.https://jeonhj.tistory.com/41
 6.https://blog.naver.com/cho6716666/222584196317
 7.https://blog.naver.com/cho6716666/222609493207
+8.https://community.st.com/t5/stm32-mcus-touchgfx-and-gui/lcd-hd44780-interface-problems-with-nucleo-board/td-p/135176
 
 http://hanjindata.iptime.org/myweb/shop/P0010/ILI9325.pdf
 
